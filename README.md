@@ -34,3 +34,5 @@ You can click the Preview link to take a look at your changes.
   <a href ="mailto:lz18.felipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/luiz-filipe-santos-4776ab213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
+  ##
+  ![Snake animation](https://github.com/lzfelippe/lzfelippe/blob/output/github-contribution-grid-snake.svg)
