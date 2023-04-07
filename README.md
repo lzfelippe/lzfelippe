@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
   
   ##
   
-<div style="justify-items: center; "><br>
+<div style="margin: auto "><br>
   <img align="center" alt="lzfelippe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lzfelippe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lzfelippe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
