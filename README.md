@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=180&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=150&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=500&color=774E9C&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+Meu+nome+%C3%A9+Luiz+Felipe;Tenho+28+anos%2C;Atualmente+sou+estudante;do+curso+de+Desenvolvimento+FullStack+da+Trybe;Seja+Bem+Vindo(a)+!+)](https://git.io/typing-svg)
 
@@ -56,11 +56,9 @@
    
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
    
- ##
-   
-  ![snake animation](https://github.com/lzfelippe/lzfelippe/blob/output/github-contribution-grid-snake.svg)
+  <!--- ![snake animation](https://github.com/lzfelippe/lzfelippe/blob/output/github-contribution-grid-snake.svg) --->
   
  </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=180&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=150&section=footer"/>
