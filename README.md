@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=2000&pause=500&color=774E9C&center=true&vCenter=true&width=1000&lines=Ol%C3%A1+Meu+nome+%C3%A9+Luiz+Felipe;Tenho+28+anos%2C;Atualmente+sou+estudante;do+curso+de+Desenvolvimento+FullStack+da+Trybe;Seja+Bem+Vindo(a)+!+)](https://git.io/typing-svg)
 
@@ -27,13 +27,13 @@
   ## 
 
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117"/>  
-    <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117"/> 
-    <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117"/> 
-   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&labelColor=161B22"/>  
+    <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&logo=html5&labelColor=161B22"/> 
+    <img src="https://img.shields.io/badge/CSS3-161B22?style=for-the-badge&logo=css3&labelColor=161B22"/> 
+   <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&labelColor=161B22"/>
+    <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=node.js&labelColor=161B22"/>
+    <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&labelColor=161B22"/>
+    <img src="https://img.shields.io/badge/Jest-161B22?style=for-the-badge&logo=jest&labelColor=161B22"/>
     <!-- <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117"/> -->
 </div>
 
@@ -61,4 +61,4 @@
  </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=120&section=footer"/>
