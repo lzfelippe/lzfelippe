@@ -53,10 +53,14 @@
  </div>
 
  <div align="center">
+   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-## 
+   
+ ##
+   
   ![snake animation](https://github.com/lzfelippe/lzfelippe/blob/output/github-contribution-grid-snake.svg)
-
+  
+ </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=151A28&height=180&section=footer"/>
