@@ -54,7 +54,7 @@
 
  <div align="center">
    
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/lzfelippe/blob/output/github-contribution-grid-snake.svg)
    
   <!--- ![Snake animation](https://github.com/lzfelippe/lzfelippe/blob/output/github-contribution-grid-snake.svg) --->
   
